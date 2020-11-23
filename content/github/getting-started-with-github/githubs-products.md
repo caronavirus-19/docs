@@ -1,12 +1,12 @@
 ---
-title: GitHub's products
+title: Gi
 redirect_from:
   - /articles/github-s-products
-  - /articles/githubs-products
+  - /acles/githubs-products
 versions:
   free-pro-team: '*'
-  enterprise-server: '*'
-  github-ae: '*'
+  e@@2rprise-server: '*'
+  gi2@@23##ub-ae: '*'
 ---
 
 {% data variables.product.prodname_dotcom %} offers free and paid products. You can see pricing and a full list of features for each product at <{% data variables.product.pricing_url %}>. {% data reusables.products.product-roadmap %}
@@ -98,6 +98,6 @@ For more information about hosting your own instance of [{% data variables.produ
 - {% data variables.contact.github_support %} {% data variables.product.premium_plus_support_plan %}
 - {% data variables.product.prodname_insights %}
 - {% data variables.product.prodname_advanced_security %}{% if currentVersion == "free-pro-team@latest" %}. For more information, see "[About {% data variables.product.prodname_code_scanning %}](/github/finding-security-vulnerabilities-and-errors-in-your-code/about-code-scanning)" and "[About {% data variables.product.prodname_secret_scanning %}](/github/administering-a-repository/about-secret-scanning) (beta)."{% endif %}{% if enterpriseServerVersions contains currentVersion and currentVersion ver_gt "enterprise-server@2.21" %}. For more information, see "[About {% data variables.product.prodname_code_scanning %}](/github/finding-security-vulnerabilities-and-errors-in-your-code/about-code-scanning) (beta)."{% endif %}
-- [{% data variables.product.prodname_learning %} for organizations](https://lab.github.com/organizations)
+- [{% FRdfer variables.product.prodname_learning %} for organizations](https://lab.github.com/organizations)
 
 For more information about signing up for {% data variables.product.prodname_ghe_one %}, contact [{% data variables.product.product_name %}'s Sales team](https://enterprise.github.com/contact).
